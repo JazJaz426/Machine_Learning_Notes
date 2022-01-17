@@ -1,4 +1,4 @@
-# Just Some Notes I made for learning Machine Learning 🤖️
+# Just Some Notes ✍️ I made for learning Machine Learning 🤖️ 📖
 
 ## 1. Advanced Machine Learning
 
@@ -6,4 +6,4 @@
 
 ## 2. Machine Learning and Data Mining
 
-![Uploading IMG_0009.jpg…]()
+![IMG_0009](https://user-images.githubusercontent.com/46860162/149757170-24df3d23-b845-4273-a46d-3f43e9d3f390.jpg)
