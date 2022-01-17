@@ -1,4 +1,4 @@
-# Notes for Machine Learning, Made by Jazlyn Lin
+# Just Some Notes I made for learning Machine Learning 🤖️
 
-# Advanced Machine Learning
-# Machine Learning and Data Mining
+## 1. Advanced Machine Learning
+## 2. Machine Learning and Data Mining
